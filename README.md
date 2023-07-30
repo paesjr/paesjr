@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ricardo Paes
-, an app developer trainee for APP HQ.
+, an app developer trainee for APP HQ. (New Plymouth / NZ)
  
  
 
