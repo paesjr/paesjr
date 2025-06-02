@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ricardo Paes
-, a junior app developer for APP HQ. (New Plymouth / NZ)
+, a web developer for APP HQ. (New Plymouth / NZ)
  
  
 
